@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "coeur-et-l-amour-dans-les-lignes-de-trace-continu-dans-un-appartement-en-style-dessin-de-lignes-continues-ligne-noire-continue-le-travail-de-television-design-symbole-de-l-amour-et-de-tendresse-r6xxfr.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
